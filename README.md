@@ -17,4 +17,4 @@ A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 - `script.js` – Game logic
 
 ## Author
-Created by [Shamaiem Shabbir]
+Created by [Shamaiem Shabbir].
